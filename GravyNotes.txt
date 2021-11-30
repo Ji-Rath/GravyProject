@@ -1,8 +1,8 @@
 - Traps (Things that hurt zombies or player)
 - More Weapons (Ranged and melee)
-- Ammo system + Reloading
+- Ammo system + Reloading (DONE)
 - Health system - DONE
-- Look into bullets not registering sometimes
+- Look into bullets not registering sometimes - DONE
 - Import assets (3d assets from marketplace?)
 - Destructables
 - Sprinting - DONE
@@ -10,8 +10,10 @@
 - Barricade system (at the very least, placing barricades) - DONE
 - Have traps cost points
 - Fix BP_Zombie having incorrect hitbox for bullet
+- Ammo pickups and spawning
+- aim down sights
 
 Non-gameplay mechanics
-- Learn git and github
+- Learn git and github - DONE
 - Learn perforce
-- 
+- commenting code
